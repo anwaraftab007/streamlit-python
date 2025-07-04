@@ -1,6 +1,5 @@
+rembg==2.0.55
+Pillow==11.1.0
 fastapi
 uvicorn
-rembg
-Pillow
-onnxruntime
 
